@@ -1,7 +1,7 @@
 <div align="center"
 
  <p align="center">
-<img src="droollss flameknight.png" width="900">
+<img src="droollss flameknight.png" width="850">
 </p>
 
 
