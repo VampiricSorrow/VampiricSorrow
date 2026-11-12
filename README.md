@@ -17,9 +17,9 @@
 </p>
 
  <p align="center">
-<img src="flowerr.png" width="860">
+<img src="flowerr.png" width="900">
 </p>
 
  <p align="center">
-<img src="waxwellbride.png" width="500">
+<img src="waxwellbride.png" width="700">
 </p>
