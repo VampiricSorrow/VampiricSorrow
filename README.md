@@ -7,9 +7,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=EDDDEC&width=435&lines=%F0%9D%92%B4%F0%9D%91%9C%F0%9D%93%8A%F0%9D%93%81%F0%9D%93%81+%F0%9D%93%81%F0%9D%91%9C%F0%9D%93%8B%F0%9D%91%92+%F0%9D%93%82%F0%9D%91%92+%F0%9D%92%B6%F0%9D%93%89+%F0%9D%91%9C%F0%9D%93%83%F0%9D%92%B8%F0%9D%91%92;%F0%9D%92%AF%F0%9D%92%BD%F0%9D%91%92+%F0%9D%93%8C%F0%9D%92%B6%F0%9D%93%8E+%F0%9D%93%8E%F0%9D%91%9C%F0%9D%93%8A+%F0%9D%92%B9%F0%9D%92%BE%F0%9D%92%B9+%F0%9D%91%9C%F0%9D%93%83%F0%9D%92%B8%F0%9D%91%92+%F0%9D%93%8A%F0%9D%93%85%F0%9D%91%9C%F0%9D%93%83+%F0%9D%92%B6+%F0%9D%92%B9%F0%9D%93%87%F0%9D%91%92%F0%9D%92%B6%F0%9D%93%82.)](https://git.io/typing-svg)
 
-<img align="left" width="200" src="https://github.com/VampiricSorrow/VampiricSorrow/blob/e3b5e0610563c7d9847150c6233b32f9c87af83e/heartshaped%20wax2.png">
+<img align="left" width="150" src="https://github.com/VampiricSorrow/VampiricSorrow/blob/e3b5e0610563c7d9847150c6233b32f9c87af83e/heartshaped%20wax2.png">
 
-<img align="right" width="200" src="https://github.com/VampiricSorrow/VampiricSorrow/blob/efd91bb211b9ea97866938a87f8e91918a00d63b/heartshaped%20wax%201.png">
+<img align="right" width="150" src="https://github.com/VampiricSorrow/VampiricSorrow/blob/efd91bb211b9ea97866938a87f8e91918a00d63b/heartshaped%20wax%201.png">
 
 
 
