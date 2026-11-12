@@ -23,3 +23,5 @@
  <p align="center">
 <img src="waxwellbride.png" width="700">
 </p>
+
+<img align="left" width="300" src="https://github.com/VampiricSorrow/VampiricSorrow/blob/71576dfa0a6ad5f3bf3be5602fb36df936f4a47d/pixxeria.png">
