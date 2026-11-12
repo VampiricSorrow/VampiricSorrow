@@ -45,3 +45,12 @@ this is a wip
 text 
 
 text
+
+text 
+
+text 
+
+txt
+<br> 
+
+<img align="right" width="300" src="https://github.com/VampiricSorrow/VampiricSorrow/blob/552a0a6d25e4644edabd9423023a7920e4621b41/frame%204.png">
