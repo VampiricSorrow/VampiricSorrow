@@ -24,4 +24,19 @@
 <img src="waxwellbride.png" width="700">
 </p>
 
+i love flameknight 
+
+flameknight!
+
+flameknight 2
+
 <img align="left" width="300" src="https://github.com/VampiricSorrow/VampiricSorrow/blob/71576dfa0a6ad5f3bf3be5602fb36df936f4a47d/pixxeria.png">
+
+ text 
+ text
+
+ text 
+
+ text
+
+<img align="right" width="300" src="https://github.com/VampiricSorrow/VampiricSorrow/blob/4b22525790ffaf46dee1b39bb2d2ece4e403e478/angelicwaxwell.png">
