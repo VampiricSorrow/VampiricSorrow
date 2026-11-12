@@ -13,7 +13,7 @@
 
 
 <p align="center">
-<img src="window opening.webp" width="500">
+<img src="window opening.webp" width="400">
 </p>
 
  <p align="center">
