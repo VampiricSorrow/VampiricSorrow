@@ -58,4 +58,6 @@ txt
 
 <img align="left" width="150" src="https://github.com/VampiricSorrow/VampiricSorrow/blob/552a0a6d25e4644edabd9423023a7920e4621b41/frame%204.png">
 
+<br> 
+
 <img align="right" width="150" src="https://github.com/VampiricSorrow/VampiricSorrow/blob/70b6befd840ebe7e2df3ec2865f7d94dafe47678/frame%205.png">
