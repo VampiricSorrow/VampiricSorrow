@@ -21,5 +21,5 @@
 </p>
 
  <p align="center">
-<img src="waxwellbride.png" width="800">
+<img src="waxwellbride.png" width="500">
 </p>
