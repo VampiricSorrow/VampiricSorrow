@@ -19,7 +19,11 @@
 
 
 <img align="right" width="300" src="https://github.com/VampiricSorrow/VampiricSorrow/blob/4b22525790ffaf46dee1b39bb2d2ece4e403e478/angelicwaxwell.png">
- meow
+
+
+
+  $\texttt{\color{#C3C6B2}meow}$
+
 
  <p align="center">
 <img src="flowerr.png" width="900">
