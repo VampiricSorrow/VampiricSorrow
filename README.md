@@ -24,7 +24,7 @@
 
 <img align="right" width="300" src="https://github.com/VampiricSorrow/VampiricSorrow/blob/4b22525790ffaf46dee1b39bb2d2ece4e403e478/angelicwaxwell.png">
 
-
+ $\texttt{\color{#EDDDEC}࣪ ִֶָ☾.}$
 
   $\texttt{\color{#EDDDEC}meow}$
 
