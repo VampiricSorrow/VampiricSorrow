@@ -16,28 +16,10 @@
 
 <img align="left" width="300" src="https://github.com/VampiricSorrow/VampiricSorrow/blob/71576dfa0a6ad5f3bf3be5602fb36df936f4a47d/pixxeria.png">
 
- text text 
- text
-text 
- text
-text 
- text
 
- text
-
- text 
-
- text
 
 <img align="right" width="300" src="https://github.com/VampiricSorrow/VampiricSorrow/blob/4b22525790ffaf46dee1b39bb2d2ece4e403e478/angelicwaxwell.png">
-
-text
-
-text 
-
-text 
-
-txt
+ meow
 
  <p align="center">
 <img src="flowerr.png" width="900">
