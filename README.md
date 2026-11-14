@@ -45,9 +45,7 @@
 <img src="waxwellbride.png" width="700">
 </p>
 
-i love flameknight 
-
-flameknight!
+this is so time consuming for coding dude im goingto chokemyself
 
 
 
