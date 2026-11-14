@@ -16,7 +16,8 @@
 
  $\texttt{\color{#EDDDEC}꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂}$
 
- 
+<img width="11%" src="https://github.com/VampiricSorrow/VampiricSorrow/blob/116e6c65991a3cc5fa7f89f9a0a0fb8c8745c8f0/doulikemysword.png " />
+<img
 <a href="https://tordplushie.atabook.org/">
   <img src="https://github.com/VampiricSorrow/VampiricSorrow/blob/7deab4fbd9aab8364047fb81bb05ad2f0e0debb4/windowling.png" width="300">
  
