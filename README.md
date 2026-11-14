@@ -11,10 +11,33 @@
 
 <img align="right" width="150" src="https://github.com/VampiricSorrow/VampiricSorrow/blob/efd91bb211b9ea97866938a87f8e91918a00d63b/heartshaped%20wax%201.png">
 
+<br> <br><br><br>
+<br> <br>
 
-<p align="center">
-<img src="window opening.webp" width="400">
-</p>
+<img align="left" width="300" src="https://github.com/VampiricSorrow/VampiricSorrow/blob/71576dfa0a6ad5f3bf3be5602fb36df936f4a47d/pixxeria.png">
+
+ text text 
+ text
+text 
+ text
+text 
+ text
+
+ text
+
+ text 
+
+ text
+
+<img align="right" width="300" src="https://github.com/VampiricSorrow/VampiricSorrow/blob/4b22525790ffaf46dee1b39bb2d2ece4e403e478/angelicwaxwell.png">
+
+text
+
+text 
+
+text 
+
+txt
 
  <p align="center">
 <img src="flowerr.png" width="900">
@@ -29,28 +52,7 @@ i love flameknight
 flameknight!
 
 
-<img align="left" width="300" src="https://github.com/VampiricSorrow/VampiricSorrow/blob/71576dfa0a6ad5f3bf3be5602fb36df936f4a47d/pixxeria.png">
 
- text 
- text
-
- text 
-
- text
-
-<img align="right" width="300" src="https://github.com/VampiricSorrow/VampiricSorrow/blob/4b22525790ffaf46dee1b39bb2d2ece4e403e478/angelicwaxwell.png">
-
-this is a wip
-
-text 
-
-text
-
-text 
-
-text 
-
-txt
 <br> 
 
 <br>
