@@ -22,7 +22,7 @@
 
 
 
-  $\texttt{\color{#C3C6B2}meow}$
+  $\texttt{\color{#654D5C}meow}$
 
 
  <p align="center">
