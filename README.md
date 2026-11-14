@@ -15,7 +15,10 @@
  $\texttt{\color{#EDDDEC}‿̩͙⊱༒︎༻♱༺༒︎⊰‿̩}$
 
  $\texttt{\color{#EDDDEC}꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂}$
-
+ 
+<a href="https://github.com/your-username">
+  <img src="https://your-image-link.png" width="150">
+</a>
 <br> <br><br><br>
 <br> <br>
 
