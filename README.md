@@ -12,9 +12,6 @@
 <img align="right" width="150" src="https://github.com/VampiricSorrow/VampiricSorrow/blob/efd91bb211b9ea97866938a87f8e91918a00d63b/heartshaped%20wax%201.png">
 
 
- $\texttt{\color{#EDDDEC}‿̩͙⊱༒︎༻♱༺༒︎⊰‿̩}$
-
- $\texttt{\color{#EDDDEC}꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂}$
 
 <img width="11%" src="https://github.com/VampiricSorrow/VampiricSorrow/blob/116e6c65991a3cc5fa7f89f9a0a0fb8c8745c8f0/doulikemysword.png " />
 <img
@@ -35,14 +32,6 @@
 
 
 <img align="right" width="300" src="https://github.com/VampiricSorrow/VampiricSorrow/blob/4b22525790ffaf46dee1b39bb2d2ece4e403e478/angelicwaxwell.png">
-
- $\texttt{\color{#EDDDEC}࣪ ִֶָ☾.}$
-
-  $\texttt{\color{#EDDDEC}  ˙        ༒  .   ⚜︎𓉳⚜︎    .  ༒        ˙}$
-  
- $\texttt{\color{#EDDDEC}✒๑⬳. . . ' 𝔉𝔞𝔯 𝔞𝔴𝔞𝔶. . 𝔏𝔬𝔫𝔤 𝔞𝔤𝔬. ' ˙⊹}$
- 
- $\texttt{\color{#EDDDEC}     ┆ℑ𝔠𝔞𝔯𝔶 ✧ 𝔖𝔬𝔩𝔯𝔬𝔰. ┆}$
 
 
  <p align="center">
