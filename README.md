@@ -26,10 +26,10 @@
 
  $\texttt{\color{#EDDDEC}࣪ ִֶָ☾.}$
 
-  $\texttt{\color{#EDDDEC}  ˙        ༒  .   ⚜︎𓉳⚜︎    .  ༒        ˙
+  $\texttt{\color{#EDDDEC}  ˙        ༒  .   ⚜︎𓉳⚜︎    .  ༒        ˙}$
   
-✒๑⬳. . . ' 𝔉𝔞𝔯 𝔞𝔴𝔞𝔶. . 𝔏𝔬𝔫𝔤 𝔞𝔤𝔬. ' ˙⊹
-      ┆ℑ𝔠𝔞𝔯𝔶 ✧ 𝔖𝔬𝔩𝔯𝔬𝔰. ┆}$
+ $\texttt{\color{#EDDDEC}✒๑⬳. . . ' 𝔉𝔞𝔯 𝔞𝔴𝔞𝔶. . 𝔏𝔬𝔫𝔤 𝔞𝔤𝔬. ' ˙⊹}$
+ $\texttt{\color{#EDDDEC}     ┆ℑ𝔠𝔞𝔯𝔶 ✧ 𝔖𝔬𝔩𝔯𝔬𝔰. ┆}$
 
 
  <p align="center">
