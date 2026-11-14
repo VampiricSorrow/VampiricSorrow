@@ -12,7 +12,7 @@
 <img align="right" width="150" src="https://github.com/VampiricSorrow/VampiricSorrow/blob/efd91bb211b9ea97866938a87f8e91918a00d63b/heartshaped%20wax%201.png">
 
 
-
+<BR><BR>
 <img width="11%" src="https://github.com/VampiricSorrow/VampiricSorrow/blob/116e6c65991a3cc5fa7f89f9a0a0fb8c8745c8f0/doulikemysword.png " />
 <img
 
